@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MLA123456",
+    "titulo": "Smartphone Samsung Galaxy A54",
+    "precio": 219999,
+    "categoria": "Celulares y Smartphones",
+    "vendidos": 500
+  },
+  {
+    "id": "MLA123457",
+    "titulo": "Aire Acondicionado Split BGH 3000 Frigorías",
+    "precio": 459999,
+    "categoria": "Electrodomésticos",
+    "vendidos": 120
+  },
+  {
+    "id": "MLA123458",
+    "titulo": "Zapatillas Nike Air Max",
+    "precio": 79999,
+    "categoria": "Moda y Calzado",
+    "vendidos": 350
+  },
+  {
+    "id": "MLA123459",
+    "titulo": "Notebook Lenovo Ideapad 8GB RAM 512GB SSD",
+    "precio": 649999,
+    "categoria": "Tecnología",
+    "vendidos": 90
+  },
+  {
+    "id": "MLA123460",
+    "titulo": "Auriculares Inalámbricos JBL",
+    "precio": 34999,
+    "categoria": "Audio",
+    "vendidos": 420
+  }
+]
